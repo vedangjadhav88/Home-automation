@@ -1,10 +1,12 @@
 ![MasterHead](https://github.com/vedangjadhav88/Home-automation/blob/main/Photos/smart_home_automation.png)
 
-**Smart Home Automation**
+# **Smart Home Automation**
 
 Automation is the technique or system of controlling a process by electronics devices with reducing human efforts and human involvement. This aim of this project is to design a model whisch is efficient in  monitoring and controlling Home Automation system consists from an android application based on Arduino. This system uses Wi-Fi technology as communication protocol to connect system components. The proposed system consist of two main components; the first part is android application that can give orders to units that one wishes to control by locally or remotely and second part is Arduino that has appropriate interface to sensors and appliances of Home Automation system and communicate with an Android application through wireless technology. The automation system can have a vital role in reducing the total energy consumed by home appliances. The main objective of Home Automation is to help handicapped and old aged people who will enable themselves in controlling home appliances and one more benefit of this project is we can get current status of home appliances from at any location.
 
 **What is Home Automation?**
+
+![Basic_home_automation](https://github.com/vedangjadhav88/Home-automation/assets/148613367/c21750ab-732c-458e-bde3-4fd4f7e341de)
 
 **Basic idea of home automation is :-**
 Home automation gives you access to control devices in your home from a mobile device anywhere in the world. The term may be used for isolated programmable devices, like thermostats
@@ -19,7 +21,26 @@ Even simple notifications can be used to perform many important tasks. You can p
 
 The given block diagram consist of different blocks, but practically just 3blocks are there that’s are Remote controlling, Communication section and Devices working at home section.
 If we want to build the home automation system at home it require to know about how all devices of are working actually and to control them through relay and by other devices like thyristors, etc. First we have to connect our controller with Internet by using Wi-Fi modules like ESP8266 and using cloud method our free Google Firebase system you can store your own programmed data base on it one by one like Lamp1, Lamp2, etc. Note the specific host name and secret key and mentioned in the controller program for authentication purpose. Then using some online app inventer method, create your own app file according to as you want to suitable, also mention in the app file which database you are using means mention the host name and secret code here also.
-Finally after making an app, program your Arduino as per your devices are connected to controller by reading and writing operation. Then connecting home appliances to controller through relay, you can control them by your mobile app. You can also make improvement in it like connecting different sensors and actuators. The home automation basic block diagram is as given bellow:
+Finally after making an app, program your Arduino as per your devices are connected to controller by reading and writing operation. Then connecting home appliances to controller through relay, you can control them by your mobile app. You can also make improvement in it like connecting different sensors and actuators. 
+
+# Project Design
+
+**System Flowchart**
+
+![System_flow_chart](https://github.com/vedangjadhav88/Home-automation/blob/main/Photos/System_flow_chart.png)
+
+**User Flowchart**
+
+![User_flow_chart](https://github.com/vedangjadhav88/Home-automation/blob/main/Photos/User_flow_chart.png)
+
+**Circuit diagram**
+
+![Circuits_diagram](https://github.com/vedangjadhav88/Home-automation/blob/main/Photos/Circuits_diagram.png)
+
+**App Layout**
+
+![App_layout](https://github.com/vedangjadhav88/Home-automation/blob/main/Photos/App_layout.png)
+![App_layout_2](https://github.com/vedangjadhav88/Home-automation/blob/main/Photos/App_layout_2.png)
 
 **Applications**
 
