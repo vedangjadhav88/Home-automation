@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/vedangjadhav88/Home-automation/blob/main/Photos/Actual_System.png)
+![MasterHead](https://github.com/vedangjadhav88/Home-automation/blob/main/Photos/smart_home_automation.png)
 
 **Smart Home Automation**
 
