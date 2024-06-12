@@ -42,6 +42,10 @@ Finally after making an app, program your Arduino as per your devices are connec
 ![App_layout](https://github.com/vedangjadhav88/Home-automation/blob/main/Photos/App_layout.png)
 ![App_layout_2](https://github.com/vedangjadhav88/Home-automation/blob/main/Photos/App_layout_2.png)
 
+# Outcome
+
+https://github.com/vedangjadhav88/Home-automation/assets/148613367/0e9f0bbd-62a1-4544-999d-725a30320645
+
 **Applications**
 
 **Smart Home Appliances for Physically Challenged Individuals:**
